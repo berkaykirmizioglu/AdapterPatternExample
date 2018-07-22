@@ -1,0 +1,6 @@
+c:\users\berkay\documents\visual studio 2013\Projects\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.exe.config
+c:\users\berkay\documents\visual studio 2013\Projects\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.exe
+c:\users\berkay\documents\visual studio 2013\Projects\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.pdb
+c:\users\berkay\documents\visual studio 2013\Projects\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.csprojResolveAssemblyReference.cache
+c:\users\berkay\documents\visual studio 2013\Projects\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.exe
+c:\users\berkay\documents\visual studio 2013\Projects\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.pdb

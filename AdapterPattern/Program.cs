@@ -1,0 +1,19 @@
+﻿using AdapterPattern.Contract;
+using AdapterPattern.Drivers;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace AdapterPattern
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            IDriver driver = new Driver(new ChromeDriver());
+            driver.Request();
+        }
+    }
+}
